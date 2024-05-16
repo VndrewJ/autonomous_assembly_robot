@@ -1,0 +1,27 @@
+[submodule "easy_handeye"]
+	path = easy_handeye
+	url = https://github.com/IFL-CAMP/easy_handeye.git
+[submodule "charuco_detector"]
+	path = charuco_detector
+	url = git@github.com:carlosmccosta/charuco_detector.git
+[submodule "rviz_distance_tool"]
+	path = rviz_distance_tool
+	url = git@github.com:Jmeyer1292/rviz_distance_tool.git
+[submodule "ndx_ur5e_arm"]
+	path = ndx_ur5e_arm
+	url = git@github.com:fpadula/ndx_ur5e_arm.git
+	branch = noetic
+[submodule "cartesian_controllers"]
+	path = cartesian_controllers
+	url = https://github.com/fzi-forschungszentrum-informatik/cartesian_controllers.git
+[submodule "ndx_util"]
+	path = ndx_util
+	url = git@gitlab.com:new-dexterity/ndx_util.git
+	branch = noetic
+[submodule "ndx_manipulation"]
+	path = ndx_manipulation
+	url = git@gitlab.com:new-dexterity/ndx_manipulation.git
+	branch = noetic
+[submodule "multi_marker_tracking"]
+	path = multi_marker_tracking
+	url = git@github.com:fpadula/multi_marker_tracking.git

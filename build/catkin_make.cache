@@ -1,0 +1,2 @@
+ndx_manipulation:ndx_util:rgmc_bringup:rgmc_description:rgmc_manipulation:rgmc_moveit_config:rgmc_task_execution:rgmc_utils
+-DCATKIN_DEVEL_PREFIX=/home/akoh751/rgmc/devel -DCMAKE_INSTALL_PREFIX=/home/akoh751/rgmc/install -G Unix Makefiles
